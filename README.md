@@ -6,7 +6,7 @@ page, every decision is a check you can audit, and every number we publish was m
 
 | Product | What it does | Case study |
 |---|---|---|
-| **Front Desk** | AI receptionist for service businesses: voice agent, website chat with a call button, Telegram, grounded support answers, Google Calendar booking, lead scoring behind a deterministic gate, one inbox for every channel | [ai-command-center](https://github.com/adaptivesystemsdev/ai-command-center) · [live dashboard](https://adaptivesystemsdev.github.io/ai-command-center/) |
+| **Front Desk** | AI receptionist for service businesses: voice agent, website chat with a call button, Telegram, grounded support answers, Google Calendar booking, lead scoring behind a deterministic gate, one inbox for every channel | [ai-command-center](https://github.com/adaptivesystemsdev/ai-command-center) · [live numbers](https://adaptivesystems.dev/platform) |
 | **Docket** | Invoice and document intake: every value traced to the page it came from, arithmetic / IBAN / VAT checked in code, a risk gate for bank-detail fraud, duplicates and PO mismatches | [docket-invoice-intake](https://github.com/adaptivesystemsdev/docket-invoice-intake) · [live numbers](https://adaptivesystems.dev/docket) |
 
 Live: [status page](https://status.adaptivesystems.dev/status/stack) · [activity feed](https://adaptivesystems.dev/live) ·

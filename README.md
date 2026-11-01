@@ -9,6 +9,8 @@ page, every decision is a check you can audit, and every number we publish was m
 | **Front Desk** | AI receptionist for service businesses: voice agent, website chat with a call button, Telegram, grounded support answers, Google Calendar booking, lead scoring behind a deterministic gate, one inbox for every channel | [ai-command-center](https://github.com/adaptivesystemsdev/ai-command-center) · [live numbers](https://adaptivesystems.dev/live#front-desk) · [score a lead](https://adaptivesystems.dev/platform/try) |
 | **Docket** | Invoice and document intake for Europe and the US: every value traced to the page it came from (PDFs, scans and phone photos, read twice by a vision model and OCR), arithmetic / IBAN / US routing / VAT checked in code, a risk gate for bank-detail fraud (IBAN or ACH), duplicates and PO mismatches | [docket-invoice-intake](https://github.com/adaptivesystemsdev/docket-invoice-intake) · [live numbers](https://adaptivesystems.dev/live#docket) · [try your invoice](https://adaptivesystems.dev/docket/try) |
 
+Both products on one page: **[the one-pager](https://adaptivesystems.dev/one-pager)** (what they do, how they decide, measured numbers, stack, links).
+
 Live: [status page](https://status.adaptivesystems.dev/status/stack) · [activity feed](https://adaptivesystems.dev/live) ·
 work with us on [Upwork](https://www.upwork.com/freelancers/~01e6b54c0e8f04bcaa)
 
